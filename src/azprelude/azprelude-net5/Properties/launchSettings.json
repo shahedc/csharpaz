@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "azprelude-net5": {
+      "commandName": "Project",
+      "commandLineArgs": "23 \"Software Engineer\"  12345"
+    }
+  }
+}
