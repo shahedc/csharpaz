@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "azprelude-core31", "azprelude-core31.csproj", "{F74C0554-C604-480F-BB2F-7FF35E2D662D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "azprelude-core31", "azprelude-netcore31\azprelude-core31.csproj", "{F74C0554-C604-480F-BB2F-7FF35E2D662D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "azprelude-net5", "..\azprelude-net5\azprelude-net5.csproj", "{0CE8CDB2-57E7-4467-B9A8-35AA4B64A003}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "azprelude-net5", "azprelude-net5\azprelude-net5.csproj", "{0CE8CDB2-57E7-4467-B9A8-35AA4B64A003}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
