@@ -6,4 +6,8 @@
     <RootNamespace>bit_netcore31</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\bitLib\bitLib.csproj" />
+  </ItemGroup>
+
 </Project>

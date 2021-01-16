@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bit-netcore31", "bit-netcor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bit-netcore5", "bit-netcore5\bit-netcore5.csproj", "{04C7E833-1014-4EAE-A908-37200210E50D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bitLib", "bitLib\bitLib.csproj", "{ED0DD5D1-B7FE-46FE-9CAB-7B9D0693D36B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{04C7E833-1014-4EAE-A908-37200210E50D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{04C7E833-1014-4EAE-A908-37200210E50D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{04C7E833-1014-4EAE-A908-37200210E50D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED0DD5D1-B7FE-46FE-9CAB-7B9D0693D36B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED0DD5D1-B7FE-46FE-9CAB-7B9D0693D36B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED0DD5D1-B7FE-46FE-9CAB-7B9D0693D36B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED0DD5D1-B7FE-46FE-9CAB-7B9D0693D36B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
